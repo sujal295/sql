@@ -1,0 +1,10 @@
+--Q1. Management wants to see all the users that have not loggedin in last 5 months. (Assume current date as 2024-06-28)
+--Q2 For the business quaterly analysis, calculate how many users and how many sessions were there at each quarter & order 
+--them by quarter from newest to oldest.
+-- Return 1st day of quarter, user_cnt, session_cnt
+--Q3 Display user id that loggedin on Jan 2024 and didnt login on Nov 2023.
+--Q4. Add to the query from Q2 and calculate the % change in session count from last quarter.
+ --Q5. Display the user with highest session score for each day.
+--Q6. Select the best user id i.e Return the users that have each session on every single day since their 1st session
+--make assumption if needed.
+--Q7. On number of days where there were no login at all
